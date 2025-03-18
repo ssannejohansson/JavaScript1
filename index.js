@@ -15,14 +15,28 @@ console.log(`your favorite color is ${favoriteColor}`);
 // Exercise 3
 
 let classmates = 12;
+let pearls = 42;
+
 classmates = 12 + 5; 
 console.log(classmates);
 
+pearls = 42 + 120;
+console.log(pearls);
+
 classmates = 12 - 3;
 console.log(classmates);
-classmates = 12 * 3;
 
+pearls = 42 - 35;
+console.log(pearls);
+
+classmates = 12 * 3;
 console.log(classmates); 
+
+pearls = 42 * 7;
+console.log(pearls); 
+
 classmates = 12 / 2;
 console.log(classmates); 
 
+pearls = 42 / 4;
+console.log(pearls);
